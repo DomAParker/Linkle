@@ -1,0 +1,54 @@
+@media all and (max-width: 450px) {
+    .title, .background_panel, .answer, .text_input {
+        width: 96vw;
+        left: 2vw;
+    }
+
+    .clue_container, .clue_panel {
+        width: 96vw;
+        left: 2vw;
+    }
+
+    .light_container {
+        left: calc(90vw - 45px);
+    }
+
+    #stats_button, #stats_container {
+        left: 2vw;
+    }
+
+    #stats_container { 
+        width: 96vw;
+    }
+
+    #help_button, #help_container {
+        left: calc(2vw + 35px);
+    }
+
+    #help_container {
+        left: 2vw;
+        width: 96vw;
+        border-top-left-radius: 10px;
+        overflow: scroll;
+    }
+
+    #history_button {
+        left: calc(98vw - 30px);
+    }
+
+    #history_container {
+        left: calc(98vw - 150px);
+    }
+
+    #first_help {
+        left: calc(2vw + 68px);
+    }
+
+    #stats_share_button {
+        font-size: 80%;
+    }
+
+    #stats_clipboard_success {
+        left: 0%;
+    }
+}

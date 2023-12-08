@@ -1,0 +1,2502 @@
+[
+  {
+    "Id": 1,
+    "Solution": "Screen",
+    "Clue1": "Green",
+    "Clue2": "Shot",
+    "Clue3": "Play",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 2,
+    "Solution": "Weight",
+    "Clue1": "Paper",
+    "Clue2": "Feather",
+    "Clue3": "Heavy",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 3,
+    "Solution": "Star",
+    "Clue1": "Light",
+    "Clue2": "Rock",
+    "Clue3": "Sign",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 4,
+    "Solution": "Pack",
+    "Clue1": "Back",
+    "Clue2": "Six",
+    "Clue3": "Jet",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 5,
+    "Solution": "Chair",
+    "Clue1": "Arm",
+    "Clue2": "Lift",
+    "Clue3": "High",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 6,
+    "Solution": "Party",
+    "Clue1": "House",
+    "Clue2": "Hat",
+    "Clue3": "Animal",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 7,
+    "Solution": "Set",
+    "Clue1": "Sun",
+    "Clue2": "Up",
+    "Clue3": "Back",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 8,
+    "Solution": "Pepper",
+    "Clue1": "Black",
+    "Clue2": "Bell",
+    "Clue3": "Corn",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 9,
+    "Solution": "Fish",
+    "Clue1": "Gold",
+    "Clue2": "Eye",
+    "Clue3": "Fly",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 10,
+    "Solution": "Day",
+    "Clue1": "Time",
+    "Clue2": "Sun",
+    "Clue3": "Light",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 11,
+    "Solution": "Bed",
+    "Clue1": "Flower",
+    "Clue2": "Bug",
+    "Clue3": "Room",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 12,
+    "Solution": "Gun",
+    "Clue1": "Fire",
+    "Clue2": "Machine",
+    "Clue3": "Glue",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 13,
+    "Solution": "Lamp",
+    "Clue1": "Desk",
+    "Clue2": "Post",
+    "Clue3": "Street",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 14,
+    "Solution": "Rain",
+    "Clue1": "Fall",
+    "Clue2": "Drop",
+    "Clue3": "Coat",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 15,
+    "Solution": "Green",
+    "Clue1": "House",
+    "Clue2": "Screen",
+    "Clue3": "Ever",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 16,
+    "Solution": "Moon",
+    "Clue1": "Full",
+    "Clue2": "Light",
+    "Clue3": "Walk",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 17,
+    "Solution": "Bear",
+    "Clue1": "Black",
+    "Clue2": "Hug",
+    "Clue3": "Trap",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 18,
+    "Solution": "Sweet",
+    "Clue1": "Heart",
+    "Clue2": "Pea",
+    "Clue3": "Bitter",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 19,
+    "Solution": "Finger",
+    "Clue1": "Ring",
+    "Clue2": "Lady",
+    "Clue3": "Middle",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 20,
+    "Solution": "White",
+    "Clue1": "Snow",
+    "Clue2": "Water",
+    "Clue3": "Noise",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 21,
+    "Solution": "Box",
+    "Clue1": "Shoe",
+    "Clue2": "Office",
+    "Clue3": "Post",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 22,
+    "Solution": "Ground",
+    "Clue1": "Coffee",
+    "Clue2": "Under",
+    "Clue3": "Rules",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 23,
+    "Solution": "Salt",
+    "Clue1": "Table",
+    "Clue2": "Sea",
+    "Clue3": "Mine",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 24,
+    "Solution": "Bow",
+    "Clue1": "Tie",
+    "Clue2": "String",
+    "Clue3": "Rain",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 25,
+    "Solution": "After",
+    "Clue1": "Glow",
+    "Clue2": "Shock",
+    "Clue3": "Taste",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 26,
+    "Solution": "Door",
+    "Clue1": "Stop",
+    "Clue2": "Back",
+    "Clue3": "Stage",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 27,
+    "Solution": "House",
+    "Clue1": "Dog",
+    "Clue2": "Full",
+    "Clue3": "Bird",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 28,
+    "Solution": "Place",
+    "Clue1": "Fire",
+    "Clue2": "Mat",
+    "Clue3": "First",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 29,
+    "Solution": "Watering",
+    "Clue1": "Can",
+    "Clue2": "Mouth",
+    "Clue3": "Hole",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 30,
+    "Solution": "Horse",
+    "Clue1": "Sea",
+    "Clue2": "Fly",
+    "Clue3": "Box",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 31,
+    "Solution": "Way",
+    "Clue1": "High",
+    "Clue2": "Point",
+    "Clue3": "One",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 32,
+    "Solution": "American",
+    "Clue1": "Dream",
+    "Clue2": "North",
+    "Clue3": "Pie",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 33,
+    "Solution": "Land",
+    "Clue1": "Grass",
+    "Clue2": "Ice",
+    "Clue3": "Mark",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 34,
+    "Solution": "Blind",
+    "Clue1": "Side",
+    "Clue2": "Fold",
+    "Clue3": "Colour",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 35,
+    "Solution": "Paper",
+    "Clue1": "Fly",
+    "Clue2": "Clip",
+    "Clue3": "Wall",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 36,
+    "Solution": "Cross",
+    "Clue1": "Hair",
+    "Clue2": "Wind",
+    "Clue3": "Double",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 37,
+    "Solution": "Long",
+    "Clue1": "Hand",
+    "Clue2": "Foot",
+    "Clue3": "Jump",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 38,
+    "Solution": "Hand",
+    "Clue1": "Under",
+    "Clue2": "Stage",
+    "Clue3": "Some",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 39,
+    "Solution": "Stand",
+    "Clue1": "Band",
+    "Clue2": "Night",
+    "Clue3": "Off",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 40,
+    "Solution": "Dress",
+    "Clue1": "Head",
+    "Clue2": "Down",
+    "Clue3": "Shirt",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 41,
+    "Solution": "Fire",
+    "Clue1": "Ball",
+    "Clue2": "Back",
+    "Clue3": "Wild",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 42,
+    "Solution": "Jack",
+    "Clue1": "Fruit",
+    "Clue2": "Knife",
+    "Clue3": "Flap",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 43,
+    "Solution": "Bank",
+    "Clue1": "Note",
+    "Clue2": "River",
+    "Clue3": "Holiday",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 44,
+    "Solution": "Ever",
+    "Clue1": "More",
+    "Clue2": "Green",
+    "Clue3": "For",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 45,
+    "Solution": "Handle",
+    "Clue1": "Love",
+    "Clue2": "Man",
+    "Clue3": "Bar",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 46,
+    "Solution": "Switch",
+    "Clue1": "Light",
+    "Clue2": "Board",
+    "Clue3": "Off",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 47,
+    "Solution": "Wind",
+    "Clue1": "Wood",
+    "Clue2": "Tail",
+    "Clue3": "Head",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 48,
+    "Solution": "Lock",
+    "Clue1": "Box",
+    "Clue2": "Door",
+    "Clue3": "Smith",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 49,
+    "Solution": "Board",
+    "Clue1": "Room",
+    "Clue2": "Cup",
+    "Clue3": "Key",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 50,
+    "Solution": "Ear",
+    "Clue1": "Mark",
+    "Clue2": "Ring",
+    "Clue3": "Wig",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 51,
+    "Solution": "Dragon",
+    "Clue1": "Fruit",
+    "Clue2": "Fly",
+    "Clue3": "Snap",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 52,
+    "Solution": "Sink",
+    "Clue1": "Hole",
+    "Clue2": "Counter",
+    "Clue3": "Heat",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 53,
+    "Solution": "Spice",
+    "Clue1": "Baby",
+    "Clue2": "All",
+    "Clue3": "Rack",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 54,
+    "Solution": "Chicken",
+    "Clue1": "Run",
+    "Clue2": "Leg",
+    "Clue3": "Wire",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 55,
+    "Solution": "River",
+    "Clue1": "Bed",
+    "Clue2": "Dance",
+    "Clue3": "Island",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 56,
+    "Solution": "Face",
+    "Clue1": "Lift",
+    "Clue2": "Type",
+    "Clue3": "Clock",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 57,
+    "Solution": "Dust",
+    "Clue1": "Star",
+    "Clue2": "Pan",
+    "Clue3": "Bin",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 58,
+    "Solution": "Deck",
+    "Clue1": "Hand",
+    "Clue2": "Chair",
+    "Clue3": "Below",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 59,
+    "Solution": "Bird",
+    "Clue1": "House",
+    "Clue2": "Bath",
+    "Clue3": "Song",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 60,
+    "Solution": "Mail",
+    "Clue1": "Room",
+    "Clue2": "Box",
+    "Clue3": "Black",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 61,
+    "Solution": "Formula",
+    "Clue1": "Baby",
+    "Clue2": "One",
+    "Clue3": "Chemical",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 62,
+    "Solution": "Sand",
+    "Clue1": "Bag",
+    "Clue2": "Storm",
+    "Clue3": "Quick",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 63,
+    "Solution": "Base",
+    "Clue1": "Camp",
+    "Clue2": "Line",
+    "Clue3": "Data",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 64,
+    "Solution": "Night",
+    "Clue1": "Time",
+    "Clue2": "Club",
+    "Clue3": "Mid",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 65,
+    "Solution": "Pole",
+    "Clue1": "South",
+    "Clue2": "Flag",
+    "Clue3": "Star",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 66,
+    "Solution": "Pink",
+    "Clue1": "Baby",
+    "Clue2": "Eye",
+    "Clue3": "Lady",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 67,
+    "Solution": "Ball",
+    "Clue1": "Base",
+    "Clue2": "Eight",
+    "Clue3": "Park",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 68,
+    "Solution": "Life",
+    "Clue1": "Time",
+    "Clue2": "After",
+    "Clue3": "Insurance",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 69,
+    "Solution": "Wheel",
+    "Clue1": "Fly",
+    "Clue2": "House",
+    "Clue3": "Cart",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 70,
+    "Solution": "Track",
+    "Clue1": "Record",
+    "Clue2": "On",
+    "Clue3": "Sound",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 71,
+    "Solution": "Para",
+    "Clue1": "Graph",
+    "Clue2": "Site",
+    "Clue3": "Glide",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 72,
+    "Solution": "Hedge",
+    "Clue1": "Row",
+    "Clue2": "Fund",
+    "Clue3": "Hog",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 73,
+    "Solution": "Oven",
+    "Clue1": "Glove",
+    "Clue2": "Gas",
+    "Clue3": "Ready",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 74,
+    "Solution": "Stop",
+    "Clue1": "Full",
+    "Clue2": "Sign",
+    "Clue3": "Bus",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 75,
+    "Solution": "Head",
+    "Clue1": "Clear",
+    "Clue2": "Master",
+    "Clue3": "Hammer",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 76,
+    "Solution": "Resistance",
+    "Clue1": "Air",
+    "Clue2": "Training",
+    "Clue3": "French",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 77,
+    "Solution": "Honey",
+    "Clue1": "Dew",
+    "Clue2": "Badger",
+    "Clue3": "Bee",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 78,
+    "Solution": "Straw",
+    "Clue1": "Berry",
+    "Clue2": "Hat",
+    "Clue3": "Final",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 79,
+    "Solution": "Mouse",
+    "Clue1": "Mat",
+    "Clue2": "Trap",
+    "Clue3": "Pad",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 80,
+    "Solution": "Cell",
+    "Clue1": "Wall",
+    "Clue2": "Phone",
+    "Clue3": "Stem",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 81,
+    "Solution": "Chuck",
+    "Clue1": "Wood",
+    "Clue2": "Steak",
+    "Clue3": "Norris",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 82,
+    "Solution": "Death",
+    "Clue1": "Wish",
+    "Clue2": "Black",
+    "Clue3": "Sudden",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 83,
+    "Solution": "Word",
+    "Clue1": "Play",
+    "Clue2": "Search",
+    "Clue3": "Microsoft",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 84,
+    "Solution": "Collar",
+    "Clue1": "Blue",
+    "Clue2": "Bone",
+    "Clue3": "Dog",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 85,
+    "Solution": "Hour",
+    "Clue1": "Happy",
+    "Clue2": "Glass",
+    "Clue3": "Rush",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 86,
+    "Solution": "Tail",
+    "Clue1": "Wind",
+    "Clue2": "Gate",
+    "Clue3": "Pony",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 87,
+    "Solution": "Tide",
+    "Clue1": "High",
+    "Clue2": "Low",
+    "Clue3": "Rip",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 88,
+    "Solution": "Ant",
+    "Clue1": "Nest",
+    "Clue2": "Army",
+    "Clue3": "Eater",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 89,
+    "Solution": "Car",
+    "Clue1": "Boot",
+    "Clue2": "Crash",
+    "Clue3": "Wash",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 90,
+    "Solution": "Pie",
+    "Clue1": "Chart",
+    "Clue2": "American",
+    "Clue3": "Apple",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 91,
+    "Solution": "Free",
+    "Clue1": "Hand",
+    "Clue2": "Hold",
+    "Clue3": "Sugar",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 92,
+    "Solution": "Bike",
+    "Clue1": "Dirt",
+    "Clue2": "Rack",
+    "Clue3": "Motor",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 93,
+    "Solution": "Iron",
+    "Clue1": "Lady",
+    "Clue2": "Man",
+    "Clue3": "Lung",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 94,
+    "Solution": "Lift",
+    "Clue1": "Chair",
+    "Clue2": "Off",
+    "Clue3": "Weight",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 95,
+    "Solution": "Bee",
+    "Clue1": "Queen",
+    "Clue2": "Honey",
+    "Clue3": "Hive",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 96,
+    "Solution": "Player",
+    "Clue1": "Team",
+    "Clue2": "Record",
+    "Clue3": "Multi",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 97,
+    "Solution": "Coast",
+    "Clue1": "Line",
+    "Clue2": "Gold",
+    "Clue3": "Guard",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 98,
+    "Solution": "Clock",
+    "Clue1": "Wise",
+    "Clue2": "Work",
+    "Clue3": "Alarm",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 99,
+    "Solution": "Branch",
+    "Clue1": "Tree",
+    "Clue2": "Line",
+    "Clue3": "Olive",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 100,
+    "Solution": "Hyper",
+    "Clue1": "Link",
+    "Clue2": "Active",
+    "Clue3": "Sensitive",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 101,
+    "Solution": "Piece",
+    "Clue1": "Master",
+    "Clue2": "Set",
+    "Clue3": "Mouth",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 102,
+    "Solution": "Aqua",
+    "Clue1": "Marine",
+    "Clue2": "Plane",
+    "Clue3": "Blue",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 103,
+    "Solution": "Chain",
+    "Clue1": "Mail",
+    "Clue2": "Saw",
+    "Clue3": "Daisy",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 104,
+    "Solution": "Tap",
+    "Clue1": "Wire",
+    "Clue2": "Dance",
+    "Clue3": "Water",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 105,
+    "Solution": "Noise",
+    "Clue1": "White",
+    "Clue2": "Background",
+    "Clue3": "Pollution",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 106,
+    "Solution": "High",
+    "Clue1": "Jump",
+    "Clue2": "School",
+    "Clue3": "Chair",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 107,
+    "Solution": "Speed",
+    "Clue1": "Boat",
+    "Clue2": "Top",
+    "Clue3": "Limit",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 108,
+    "Solution": "Every",
+    "Clue1": "Body",
+    "Clue2": "Thing",
+    "Clue3": "Where",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 109,
+    "Solution": "Price",
+    "Clue1": "Tag",
+    "Clue2": "Less",
+    "Clue3": "Asking",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 110,
+    "Solution": "Pilot",
+    "Clue1": "Auto",
+    "Clue2": "Licence",
+    "Clue3": "Episode",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 111,
+    "Solution": "List",
+    "Clue1": "Price",
+    "Clue2": "Check",
+    "Clue3": "Hit",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 112,
+    "Solution": "Pit",
+    "Clue1": "Stop",
+    "Clue2": "Bull",
+    "Clue3": "Snake",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 113,
+    "Solution": "Comfort",
+    "Clue1": "Break",
+    "Clue2": "Food",
+    "Clue3": "Blanket",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 114,
+    "Solution": "Air",
+    "Clue1": "Flow",
+    "Clue2": "Craft",
+    "Clue3": "Fry",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 115,
+    "Solution": "Point",
+    "Clue1": "Pin",
+    "Clue2": "Ball",
+    "Clue3": "Decimal",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 116,
+    "Solution": "Ice",
+    "Clue1": "Dry",
+    "Clue2": "Pack",
+    "Clue3": "Rink",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 117,
+    "Solution": "Tea",
+    "Clue1": "Bag",
+    "Clue2": "Cup",
+    "Clue3": "Cream",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 118,
+    "Solution": "Pop",
+    "Clue1": "Corn",
+    "Clue2": "Tart",
+    "Clue3": "Idol",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 119,
+    "Solution": "Science",
+    "Clue1": "Teacher",
+    "Clue2": "Fiction",
+    "Clue3": "Rocket",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 120,
+    "Solution": "Tie",
+    "Clue1": "Black",
+    "Clue2": "Clip",
+    "Clue3": "Bow",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 121,
+    "Solution": "Natural",
+    "Clue1": "Super",
+    "Clue2": "History",
+    "Clue3": "Selection",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 122,
+    "Solution": "Stamp",
+    "Clue1": "Time",
+    "Clue2": "Duty",
+    "Clue3": "Postage",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 123,
+    "Solution": "Tax",
+    "Clue1": "Date",
+    "Clue2": "Income",
+    "Clue3": "Haven",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 124,
+    "Solution": "Alley",
+    "Clue1": "Way",
+    "Clue2": "Cat",
+    "Clue3": "Bowling",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 125,
+    "Solution": "Arch",
+    "Clue1": "Wheel",
+    "Clue2": "Bishop",
+    "Clue3": "Way",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 126,
+    "Solution": "Spirit",
+    "Clue1": "Free",
+    "Clue2": "White",
+    "Clue3": "Measure",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 127,
+    "Solution": "Tight",
+    "Clue1": "Sleep",
+    "Clue2": "Rope",
+    "Clue3": "Hold",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 128,
+    "Solution": "Inner",
+    "Clue1": "Circle",
+    "Clue2": "Peace",
+    "Clue3": "Ear",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 129,
+    "Solution": "Metal",
+    "Clue1": "Heavy",
+    "Clue2": "Gun",
+    "Clue3": "Worker",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 130,
+    "Solution": "Step",
+    "Clue1": "Side",
+    "Clue2": "Up",
+    "Clue3": "Door",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 131,
+    "Solution": "Arctic",
+    "Clue1": "Circle",
+    "Clue2": "Ocean",
+    "Clue3": "Monkeys",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 132,
+    "Solution": "Blood",
+    "Clue1": "Orange",
+    "Clue2": "Type",
+    "Clue3": "Pressure",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 133,
+    "Solution": "Order",
+    "Clue1": "Tall",
+    "Clue2": "In",
+    "Clue3": "Court",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 134,
+    "Solution": "Mental",
+    "Clue1": "Note",
+    "Clue2": "Health",
+    "Clue3": "Image",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 135,
+    "Solution": "Race",
+    "Clue1": "Drag",
+    "Clue2": "Horse",
+    "Clue3": "Track",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 136,
+    "Solution": "Cover",
+    "Clue1": "Under",
+    "Clue2": "Up",
+    "Clue3": "Letter",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 137,
+    "Solution": "Cheese",
+    "Clue1": "Big",
+    "Clue2": "Say",
+    "Clue3": "Cream",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 138,
+    "Solution": "Area",
+    "Clue1": "Play",
+    "Clue2": "Grey",
+    "Clue3": "Penalty",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 139,
+    "Solution": "Knife",
+    "Clue1": "Pen",
+    "Clue2": "Edge",
+    "Clue3": "Jack",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 140,
+    "Solution": "Nature",
+    "Clue1": "Human",
+    "Clue2": "Second",
+    "Clue3": "Mother",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 141,
+    "Solution": "Reason",
+    "Clue1": "See",
+    "Clue2": "Within",
+    "Clue3": "Able",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 142,
+    "Solution": "Gold",
+    "Clue1": "Solid",
+    "Clue2": "Rush",
+    "Clue3": "Finger",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 143,
+    "Solution": "Nuclear",
+    "Clue1": "Plant",
+    "Clue2": "Science",
+    "Clue3": "Power",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 144,
+    "Solution": "North",
+    "Clue1": "Star",
+    "Clue2": "True",
+    "Clue3": "America",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 145,
+    "Solution": "Angle",
+    "Clue1": "Right",
+    "Clue2": "Tri",
+    "Clue3": "Wide",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 146,
+    "Solution": "Rice",
+    "Clue1": "Brown",
+    "Clue2": "Paper",
+    "Clue3": "Pudding",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 147,
+    "Solution": "Learner",
+    "Clue1": "Slow",
+    "Clue2": "Visual",
+    "Clue3": "Driver",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 148,
+    "Solution": "Cake",
+    "Clue1": "Stand",
+    "Clue2": "Walk",
+    "Clue3": "Cup",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 149,
+    "Solution": "Stereo",
+    "Clue1": "System",
+    "Clue2": "Type",
+    "Clue3": "Sound",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 150,
+    "Solution": "Trust",
+    "Clue1": "National",
+    "Clue2": "Fund",
+    "Clue3": "Worthy",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 151,
+    "Solution": "Age",
+    "Clue1": "Dark",
+    "Clue2": "Old",
+    "Clue3": "Golden",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 152,
+    "Solution": "Speech",
+    "Clue1": "Free",
+    "Clue2": "Bubble",
+    "Clue3": "Acceptance",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 153,
+    "Solution": "Scrap",
+    "Clue1": "Book",
+    "Clue2": "Metal",
+    "Clue3": "Yard",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 154,
+    "Solution": "Lesson",
+    "Clue1": "Life",
+    "Clue2": "Piano",
+    "Clue3": "Driving",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 155,
+    "Solution": "Lighter",
+    "Clue1": "High",
+    "Clue2": "Fire",
+    "Clue3": "Fluid",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 156,
+    "Solution": "Above",
+    "Clue1": "Board",
+    "Clue2": "Ground",
+    "Clue3": "Heavens",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 157,
+    "Solution": "Rib",
+    "Clue1": "Spare",
+    "Clue2": "Cage",
+    "Clue3": "Eye",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 158,
+    "Solution": "Leg",
+    "Clue1": "Room",
+    "Clue2": "Work",
+    "Clue3": "Boot",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 159,
+    "Solution": "Plate",
+    "Clue1": "Number",
+    "Clue2": "Dinner",
+    "Clue3": "Boiler",
+    "Clue1_BA": "B",
+    "Clue2_BA": "b",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 160,
+    "Solution": "Bell",
+    "Clue1": "Blue",
+    "Clue2": "Door",
+    "Clue3": "Pepper",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 161,
+    "Solution": "Dressing",
+    "Clue1": "Room",
+    "Clue2": "French",
+    "Clue3": "Salad",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 162,
+    "Solution": "Call",
+    "Clue1": "Cat",
+    "Clue2": "Curtain",
+    "Clue3": "Centre",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 163,
+    "Solution": "Hip",
+    "Clue1": "Joint",
+    "Clue2": "Hop",
+    "Clue3": "Flask",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 164,
+    "Solution": "Roll",
+    "Clue1": "Back",
+    "Clue2": "Pay",
+    "Clue3": "Out",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 165,
+    "Solution": "Stroke",
+    "Clue1": "Sun",
+    "Clue2": "Back",
+    "Clue3": "Master",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 166,
+    "Solution": "Read",
+    "Clue1": "Lip",
+    "Clue2": "Mind",
+    "Clue3": "Proof",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 167,
+    "Solution": "Season",
+    "Clue1": "Open",
+    "Clue2": "Off",
+    "Clue3": "Ticket",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 168,
+    "Solution": "Rest",
+    "Clue1": "Head",
+    "Clue2": "Arm",
+    "Clue3": "Room",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 169,
+    "Solution": "Red",
+    "Clue1": "Hot",
+    "Clue2": "Sea",
+    "Clue3": "Cross",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 170,
+    "Solution": "Polo",
+    "Clue1": "Neck",
+    "Clue2": "Shirt",
+    "Clue3": "Water",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 171,
+    "Solution": "Tree",
+    "Clue1": "Family",
+    "Clue2": "House",
+    "Clue3": "Top",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 172,
+    "Solution": "Boxing",
+    "Clue1": "Ring",
+    "Clue2": "Glove",
+    "Clue3": "Kick",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 173,
+    "Solution": "World",
+    "Clue1": "Cup",
+    "Clue2": "Wide",
+    "Clue3": "Series",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 174,
+    "Solution": "City",
+    "Clue1": "Break",
+    "Clue2": "Centre",
+    "Clue3": "Scape",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 175,
+    "Solution": "Lady",
+    "Clue1": "Bird",
+    "Clue2": "Pink",
+    "Clue3": "Finger",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 176,
+    "Solution": "Bread",
+    "Clue1": "Flat",
+    "Clue2": "Short",
+    "Clue3": "Board",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 177,
+    "Solution": "Flow",
+    "Clue1": "Work",
+    "Clue2": "Over",
+    "Clue3": "Air",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 178,
+    "Solution": "Dairy",
+    "Clue1": "Farm",
+    "Clue2": "Free",
+    "Clue3": "Milk",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 179,
+    "Solution": "Word",
+    "Clue1": "Cross",
+    "Clue2": "Pass",
+    "Clue3": "Play",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 180,
+    "Solution": "Wild",
+    "Clue1": "Life",
+    "Clue2": "Fire",
+    "Clue3": "Run",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 181,
+    "Solution": "Theme",
+    "Clue1": "Park",
+    "Clue2": "Dark",
+    "Clue3": "Tune",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 182,
+    "Solution": "Jail",
+    "Clue1": "House",
+    "Clue2": "Bird",
+    "Clue3": "Break",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 183,
+    "Solution": "Pipe",
+    "Clue1": "Dream",
+    "Clue2": "Drain",
+    "Clue3": "Bag",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 184,
+    "Solution": "Burn",
+    "Clue1": "Out",
+    "Clue2": "Side",
+    "Clue3": "Heart",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 185,
+    "Solution": "Bath",
+    "Clue1": "Time",
+    "Clue2": "Bird",
+    "Clue3": "Room",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 186,
+    "Solution": "Chest",
+    "Clue1": "Hair",
+    "Clue2": "Nut",
+    "Clue3": "Treasure",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 187,
+    "Solution": "Hair",
+    "Clue1": "Style",
+    "Clue2": "Cross",
+    "Clue3": "Spray",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 188,
+    "Solution": "Photo",
+    "Clue1": "Graph",
+    "Clue2": "Copy",
+    "Clue3": "Booth",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 189,
+    "Solution": "Road",
+    "Clue1": "Side",
+    "Clue2": "Rail",
+    "Clue3": "Trip",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 190,
+    "Solution": "Data",
+    "Clue1": "Big",
+    "Clue2": "Base",
+    "Clue3": "Science",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 191,
+    "Solution": "Hall",
+    "Clue1": "Way",
+    "Clue2": "Mark",
+    "Clue3": "Pass",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 192,
+    "Solution": "Power",
+    "Clue1": "Over",
+    "Clue2": "Fire",
+    "Clue3": "Will",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 193,
+    "Solution": "Multi",
+    "Clue1": "Colour",
+    "Clue2": "Media",
+    "Clue3": "Player",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 194,
+    "Solution": "Page",
+    "Clue1": "Home",
+    "Clue2": "Front",
+    "Clue3": "Boy",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 195,
+    "Solution": "Skate",
+    "Clue1": "Cheap",
+    "Clue2": "Park",
+    "Clue3": "Board",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 196,
+    "Solution": "Smart",
+    "Clue1": "Watch",
+    "Clue2": "Out",
+    "Clue3": "Phone",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 197,
+    "Solution": "Drill",
+    "Clue1": "Power",
+    "Clue2": "Bit",
+    "Clue3": "Sergeant",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 198,
+    "Solution": "Code",
+    "Clue1": "Name",
+    "Clue2": "Red",
+    "Clue3": "Post",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 199,
+    "Solution": "Side",
+    "Clue1": "Way",
+    "Clue2": "Out",
+    "Clue3": "Kick",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 200,
+    "Solution": "Spy",
+    "Clue1": "Glass",
+    "Clue2": "Ware",
+    "Clue3": "Counter",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 201,
+    "Solution": "Love",
+    "Clue1": "True",
+    "Clue2": "Bird",
+    "Clue3": "Make",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 202,
+    "Solution": "Carbon",
+    "Clue1": "Hydro",
+    "Clue2": "Fibre",
+    "Clue3": "Dating",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 203,
+    "Solution": "Hill",
+    "Clue1": "Up",
+    "Clue2": "Down",
+    "Clue3": "Side",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 204,
+    "Solution": "Spare",
+    "Clue1": "Room",
+    "Clue2": "Tyre",
+    "Clue3": "Rib",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 205,
+    "Solution": "Body",
+    "Clue1": "Anti",
+    "Clue2": "Guard",
+    "Clue3": "Part",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 206,
+    "Solution": "Grass",
+    "Clue1": "Land",
+    "Clue2": "Lemon",
+    "Clue3": "Roots",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 207,
+    "Solution": "Carrot",
+    "Clue1": "Top",
+    "Clue2": "Cake",
+    "Clue3": "Juice",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 208,
+    "Solution": "Miss",
+    "Clue1": "You",
+    "Clue2": "America",
+    "Clue3": "Out",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 209,
+    "Solution": "Sail",
+    "Clue1": "Fish",
+    "Clue2": "Boat",
+    "Clue3": "Main",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 210,
+    "Solution": "Cabin",
+    "Clue1": "Log",
+    "Clue2": "Crew",
+    "Clue3": "Fever",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 211,
+    "Solution": "Neck",
+    "Clue1": "Crew",
+    "Clue2": "Bottle",
+    "Clue3": "Pillow",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 212,
+    "Solution": "Lunch",
+    "Clue1": "Box",
+    "Clue2": "Time",
+    "Clue3": "Lady",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 213,
+    "Solution": "Wood",
+    "Clue1": "Wind",
+    "Clue2": "Fire",
+    "Clue3": "Land",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 214,
+    "Solution": "Grand",
+    "Clue1": "Mother",
+    "Clue2": "Stand",
+    "Clue3": "Slam",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 215,
+    "Solution": "Brain",
+    "Clue1": "Power",
+    "Clue2": "Wash",
+    "Clue3": "Storm",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 216,
+    "Solution": "Sports",
+    "Clue1": "Man",
+    "Clue2": "Water",
+    "Clue3": "Wear",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 217,
+    "Solution": "Black",
+    "Clue1": "Mail",
+    "Clue2": "Board",
+    "Clue3": "Jack",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 218,
+    "Solution": "Berry",
+    "Clue1": "Blue",
+    "Clue2": "Straw",
+    "Clue3": "Goose",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 219,
+    "Solution": "Glow",
+    "Clue1": "After",
+    "Clue2": "Worm",
+    "Clue3": "Stick",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 220,
+    "Solution": "Glove",
+    "Clue1": "Fox",
+    "Clue2": "Box",
+    "Clue3": "Golf",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 221,
+    "Solution": "Rifle",
+    "Clue1": "Air",
+    "Clue2": "Automatic",
+    "Clue3": "Man",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 222,
+    "Solution": "Arm",
+    "Clue1": "Pit",
+    "Clue2": "Band",
+    "Clue3": "Fire",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 223,
+    "Solution": "Up",
+    "Clue1": "Wind",
+    "Clue2": "Stand",
+    "Clue3": "Sell",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 224,
+    "Solution": "Light",
+    "Clue1": "House",
+    "Clue2": "Spot",
+    "Clue3": "Moon",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 225,
+    "Solution": "Income",
+    "Clue1": "Net",
+    "Clue2": "Tax",
+    "Clue3": "Disposable",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 226,
+    "Solution": "Dough",
+    "Clue1": "Nut",
+    "Clue2": "Sour",
+    "Clue3": "Cookie",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 227,
+    "Solution": "Key",
+    "Clue1": "Hole",
+    "Clue2": "Card",
+    "Clue3": "Note",
+    "Clue1_BA": "a",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 228,
+    "Solution": "Goal",
+    "Clue1": "Mouth",
+    "Clue2": "Post",
+    "Clue3": "Keeper",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 229,
+    "Solution": "King",
+    "Clue1": "Pin",
+    "Clue2": "Crab",
+    "Clue3": "Lion",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 230,
+    "Solution": "Flood",
+    "Clue1": "Light",
+    "Clue2": "Flash",
+    "Clue3": "Plain",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 231,
+    "Solution": "Slow",
+    "Clue1": "Down",
+    "Clue2": "Cook",
+    "Clue3": "Motion",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 232,
+    "Solution": "Lemon",
+    "Clue1": "Grass",
+    "Clue2": "Juice",
+    "Clue3": "Curd",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 233,
+    "Solution": "Screw",
+    "Clue1": "Up",
+    "Clue2": "Cork",
+    "Clue3": "Driver",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 234,
+    "Solution": "Bus",
+    "Clue1": "Air",
+    "Clue2": "Pass",
+    "Clue3": "Driver",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 235,
+    "Solution": "Wave",
+    "Clue1": "Air",
+    "Clue2": "Length",
+    "Clue3": "Micro",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 236,
+    "Solution": "Game",
+    "Clue1": "End",
+    "Clue2": "Keeper",
+    "Clue3": "Cube",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 237,
+    "Solution": "Sound",
+    "Clue1": "Bar",
+    "Clue2": "System",
+    "Clue3": "Ultra",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 238,
+    "Solution": "Beat",
+    "Clue1": "Heart",
+    "Clue2": "Dead",
+    "Clue3": "Up",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 239,
+    "Solution": "Double",
+    "Clue1": "Bed",
+    "Clue2": "Cross",
+    "Clue3": "Vision",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 240,
+    "Solution": "Brand",
+    "Clue1": "On",
+    "Clue2": "Fire",
+    "Clue3": "New",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 241,
+    "Solution": "Glue",
+    "Clue1": "Gun",
+    "Clue2": "Stick",
+    "Clue3": "Super",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 242,
+    "Solution": "Shave",
+    "Clue1": "After",
+    "Clue2": "Close",
+    "Clue3": "Cream",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 243,
+    "Solution": "Beach",
+    "Clue1": "Ball",
+    "Clue2": "Palm",
+    "Clue3": "Bum",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 244,
+    "Solution": "Island",
+    "Clue1": "Long",
+    "Clue2": "Desert",
+    "Clue3": "Love",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 245,
+    "Solution": "Pound",
+    "Clue1": "Dog",
+    "Clue2": "Cake",
+    "Clue3": "Sterling",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 246,
+    "Solution": "Silver",
+    "Clue1": "Smith",
+    "Clue2": "Back",
+    "Clue3": "Quick",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 247,
+    "Solution": "Back",
+    "Clue1": "Drop",
+    "Clue2": "Quarter",
+    "Clue3": "Bone",
+    "Clue1_BA": "A",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  },
+  {
+    "Id": 248,
+    "Solution": "Mile",
+    "Clue1": "Stone",
+    "Clue2": "High",
+    "Clue3": "Country",
+    "Clue1_BA": "A",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 249,
+    "Solution": "Eye",
+    "Clue1": "Glass",
+    "Clue2": "Lid",
+    "Clue3": "Hawk",
+    "Clue1_BA": "B",
+    "Clue2_BA": "A",
+    "Clue3_BA": "B"
+  },
+  {
+    "Id": 250,
+    "Solution": "Link",
+    "Clue1": "Hyper",
+    "Clue2": "Cuff",
+    "Clue3": "Le",
+    "Clue1_BA": "B",
+    "Clue2_BA": "B",
+    "Clue3_BA": "A"
+  }
+]

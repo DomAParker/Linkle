@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DB1RGN97GP"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-DB1RGN97GP');
+    </script>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Linkle - A Word Game</title>
+    <link rel="stylesheet" href="style_v025.css">
+    <link rel="icon" href="images/linkicon.png">
+    <script src="script_v025.js"></script>
+</head>
+<body>
+    <div id="first_help"> &#8592 First Time? Find out how to play</div>
+    <div class="background_panel" id="background_panel"></div>
+    <div class="clue_panel"></div>
+    <div class="title" id="title">
+        Link<span id="title_color">le</span>
+    </div>
+    <div class="light_container">
+        <div class="light" id="light1"></div>
+        <div class="light" id="light2"></div>
+        <div class="light" id="light3"></div>
+        <div class="light" id="light4"></div>
+        <div class="light" id="light5"></div>
+    </div>
+    <input class= "text_input" type="text" id="guess" name="guess" autocomplete="off" autofocus="autofocus" placeholder="Type here..." 
+    onfocus="textFocus()" onclick="textFocus()">
+    <div class="button_container">
+        <div class="button" onclick="toggleStats()" id="stats_button">
+            <img src="images/graph.png" id="stats_icon">
+        </div>
+        <div class="button" onclick="toggleHistory()" id="history_button">
+            <img src="images/history.png" id="history_icon">
+        </div>
+        <div class="button" onclick="toggleHelp()" id="help_button">
+            <img src="images/question-mark.png" id="help_icon">
+        </div>
+    </div>
+    <div class="text_container" id="stats_container">
+        <div id="stats_share_button">
+            Share stats &nbsp;
+            <img id="stats_share_icon" src="images/share_white.png">
+        </div>
+        <div class="clipboard_success" id="stats_clipboard_success">Copied to clipboard</div>
+        <div id="stats_title">Stats</div>
+        <div id="stats_totalplayed">0</div>
+        <div id="stats_totalplayed_text">Played</div>
+        <div id="stats_totalwon">0</div>
+        <div id="stats_totalwon_text">Won</div>
+        <div id="statsAvg">N/A</div>
+        <div id="statsAvg_text">Guess Average</div>
+        <div id="statsWinpct">0</div>
+        <div id="statsWinpct_text">Win %</div>
+        <div id="stats_guess_dist_title">Guess Distribution</div>
+        <div class="stats" id="stats1">1</div>
+        <div class="stats" id="stats1_text">1<sup>st</sup></div>
+        <div class="stats" id="stats2">2</div>
+        <div class="stats" id="stats2_text">2<sup>nd</sup></div>
+        <div class="stats" id="stats3">3</div>
+        <div class="stats" id="stats3_text">3<sup>rd</sup></div>
+        <div class="stats" id="stats4">4</div>
+        <div class="stats" id="stats4_text">4<sup>th</sup></div>
+        <div class="stats" id="stats5">5</div>
+        <div class="stats" id="stats5_text">5<sup>th</sup></div>
+        <div class="stats" id="statsl">0</div>
+        <div class="stats" id="statsl_text">Lost</div>
+        <div class="stats_bar" id="stats_bar1"></div>
+        <div class="stats_bar" id="stats_bar2"></div>
+        <div class="stats_bar" id="stats_bar3"></div>
+        <div class="stats_bar" id="stats_bar4"></div>
+        <div class="stats_bar" id="stats_bar5"></div>
+        <div class="stats_bar" id="stats_barl"></div>
+    </div>
+    <div class="text_container" id="history_container">
+        <div class="history_title">Past Guesses</div>
+        <div class="history" id="history1"></div>
+        <div class="history" id="history2"></div>
+        <div class="history" id="history3"></div>
+        <div class="history" id="history4"></div>
+        <div class="history" id="history5"></div>
+    </div>
+    <div class="text_container" id="help_container">
+        <div class="help_text" id="help_title">How to play</div>
+        <div id="prev_arrow" onclick="prevSlide()"><</div>
+        <div id="next_arrow" onclick="nextSlide()">></div>
+        <div class="help_slide" id="help_slide1" style="font-size: 25px">Objective: <br><br> Find the word that links the clues together.</div>
+        <div class="help_slide" id="help_slide2">
+            There are 5 clues in total. <br><br> You will start with the first clue and are given a new clue if you guess incorrectly.
+            <br><br>
+            <img id="help_image2" src="images/5_clues.png">
+        </div>
+        <div class="help_slide" id="help_slide3">
+            The first 3 clues will each display a word that will either go before or after the solution to form a different word or phrase.
+            <br><br>
+            <img id="help_image3" src="images/3_clues.png">
+        </div>
+        <div class="help_slide" id="help_slide4">
+            <img id="help_image4" src="images/america.png">
+            <br><br>
+            For example, the first clue here is "North" so I will guess America. <br> (To make the phrase "North America")
+            <br><br>
+            To submit your answer, press <b>Return</b> on your keyboard, or <b>Enter</b> if you're on a laptop/desktop.
+        </div>
+        <div class="help_slide" id="help_slide5">
+            <img id="help_image5" src="images/1_wrong.png">
+            <br><br>
+            Incorrect! The circle next to "North" turns red, and the next clue appears. This will happen for all clues.
+        </div>
+        <div class="help_slide" id="help_slide6">
+            <img id="help_image6" src="images/5_revealed.png">
+            <br><br>
+            The 4th and 5th clues show the number of letters in the solution, and the first letter of the solution respectively.
+            <br> The 5th clue will also reveal what side of each clue the solution will go. This is indicated by a "_".
+        </div>
+        <div class="help_slide" id="help_slide7">
+            <img id="help_image7" src="images/5_revealed.png">
+            <br><br><br>
+            In this example, we have a 3 letter word, starting with S, where the solution comes after "North", and before both "Side" and "Breeze"
+        </div>
+        <div class="help_slide" id="help_slide8">
+            <img id="help_image8" src="images/5_revealed.png">
+            <br><br>
+            The solution for this example is "Sea", as it makes the following words/phrases:
+            <br>
+            <br>North SEA
+            <br>SEAside
+            <br>SEA Breeze
+        </div>
+        <div class="help_slide" id="help_slide9">
+            <img id="help_image9" src="images/right_guess.png">
+            <br><br>
+            Once you guess correctly (on any of the clues) the circles will turn green, and the answer will be revealed.
+            <br><br>
+        </div>
+        <div class="help_slide" id="help_slide10">
+            <img id="help_image10" src="images/wrong_guess.png">
+            <br><br>
+            If you fail to guess correctly after all clues are revealed, all the circles will turn red, and the answer
+            will be revealed.
+        </div>
+        <div class="help_slide" id="help_slide11">
+            <br><br><br><br>
+            <img id="help_image11" src="images/history_help.png">
+            <br><br><br>
+            Your previous guesses can be accessed by clicking the button shown above.
+        </div>
+        <div class="help_slide" id="help_slide12">
+            <br><br><br>
+            <img id="help_image12" src="images/stats_help.png">
+            <br><br><br>
+            Your stats can be accessed by clicking the button shown above.
+            <br><br>
+            Note: Failing to guess correctly after all clues have been revealed will give a guess score of 6.
+        </div>     
+        <div class="help_slide" id="help_slide13">
+            Final notes:
+            <br>
+            <ul style="text-align: left; font-size: 14px;">
+                <li>There is one puzzle daily</li>
+                <br>
+                <li>This game was made by a British developer, so apologies if the words/phrases are not as well known to those in other countries.
+                    <br> I've tried to make it possible for all English speakers across the world.
+                </li>
+                <br>
+                <li>Feel free to share your most recent records or stats by using the stats buttons found at the top of the page 
+                    or on the stats screen.
+                </li>
+                <br>
+                <li>Thank you so much for playing the game! Best of luck!</li>
+            </ul>
+        </div>
+        <div class="slide_count_container">
+            <div class="slide_count" id="slide_count1"></div>
+            <div class="slide_count" id="slide_count2"></div>
+            <div class="slide_count" id="slide_count3"></div>
+            <div class="slide_count" id="slide_count4"></div>
+            <div class="slide_count" id="slide_count5"></div>
+            <div class="slide_count" id="slide_count6"></div>
+            <div class="slide_count" id="slide_count7"></div>
+            <div class="slide_count" id="slide_count8"></div>
+            <div class="slide_count" id="slide_count9"></div>
+            <div class="slide_count" id="slide_count10"></div>
+            <div class="slide_count" id="slide_count11"></div>
+            <div class="slide_count" id="slide_count12"></div>
+            <div class="slide_count" id="slide_count13"></div>
+        </div>
+    </div>
+    <div class="answer" id="answer"></div>
+    <div class="clue_container">
+        <div class="clue_icon" id="clue1_icon">1<sup>st</sup></div>
+        <div class="clue" id="clue1"></div>
+        <div class="clue_icon" id="clue2_icon">2<sup>nd</sup></div>
+        <div class="clue" id="clue2"></div>
+        <div class="clue_icon" id="clue3_icon">3<sup>rd</sup></div>
+        <div class="clue" id="clue3"></div>
+        <div class="clue_icon" id="clue4_icon">#</div>
+        <div class="clue" id="clue4"></div>
+        <div class="clue_icon" id="clue5_icon">?_</div>
+        <div class="clue" id="clue5"></div>
+    </div>
+    <div class="donation_link">Enjoy Link<span>le</span> and want to support? 
+        <a href="https://ko-fi.com/linkle/" target="_blank" rel="noopener noreferrer">Click to buy me a coffee!</a></div>
+    <div class="background_dimmer" id="help_dimmer" onclick="toggleHelp()"></div>
+    <div class="close_cover" id="close_cover" onclick="closeAll()"></div>
+    <div class="button" id="share_button">
+        Share  &nbsp;
+        <img src="images/share.png" id="share_icon">
+    </div>
+    <div class="clipboard_success" id="clipboard_success">Copied to clipboard</div>
+    </div>
+    <script src="share_script_v025.js"></script>
+</body>
+</html>
